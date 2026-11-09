@@ -64,7 +64,7 @@ I'm a Java developer who leads at the module level in mainframe-to-microservices
 ## 📱 Projeler | Projects
 
 <p align="center">
-  <img src="icon-512.png" width="120" alt="PlateMetric AI logosu" />
+  <img src="platemetric.png" width="120" alt="PlateMetric AI logosu" />
 </p>
 
 <h3 align="center">PlateMetric AI</h3>
