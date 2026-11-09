@@ -108,4 +108,4 @@ I'm a Java developer who leads at the module level in mainframe-to-microservices
 
 ---
 
-<sub>✨ Thanks for stopping by! Teşekkürler, uğradığın için! 🙌</sub>
+<sub>✨ Thanks for stopping by! Uğradığın için Teşekkürler! 🙌</sub>
