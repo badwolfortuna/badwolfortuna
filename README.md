@@ -64,7 +64,7 @@ I'm a Java developer who leads at the module level in mainframe-to-microservices
 ## 📱 Projeler | Projects
 
 <p align="center">
-  <img src="platemetric.png" width="120" alt="PlateMetric AI logosu" />
+  <img src="icon-512.png" width="120" alt="PlateMetric AI logosu" />
 </p>
 
 <h3 align="center">PlateMetric AI</h3>
@@ -72,6 +72,7 @@ I'm a Java developer who leads at the module level in mainframe-to-microservices
 [![Google Play](https://img.shields.io/badge/Google_Play-Kapalı_Test-34A853?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.platemetric.app) [![Web](https://img.shields.io/badge/Web-platemetric--ai.web.app-4285F4?style=flat&logo=firebase&logoColor=white)](https://platemetric-ai.web.app/)
 
 🇹🇷 Yemek fotoğraflarından kalori ve makro besin değerlerini yapay zekâyla hesaplayan mobil uygulama 📸. Yemeğinin fotoğrafını çek, yemekleri, gramajlarını ve kalorilerini öğren. Diyet listesi ekleme, günlük takip, kalori harcama hesaplama, su takibi, alerji uyarıları ve öğün hatırlatıcıları da içeriyor ⏰.
+
 🇬🇧 A mobile app that uses AI to estimate calories and macronutrients from photos of your meals 📸. Snap a photo of your plate to get the dishes, portion weights and calories. It also includes adding diet lists, daily tracking, calorie burn calculation, water tracking, allergy alerts and meal reminders ⏰.
 🧪 Currently in Google Play closed testing | Şu anda Google Play kapalı test aşamasında.
 
