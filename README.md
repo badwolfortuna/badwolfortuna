@@ -92,7 +92,8 @@ I'm a Java developer who leads at the module level in mainframe-to-microservices
 
 **Testing & Quality:** ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqubecloud&logoColor=white) ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat)
 
-**AI-Assisted Development:** ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github&logoColor=white)
+**AI-Assisted Development:** ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+
 
 ---
 
