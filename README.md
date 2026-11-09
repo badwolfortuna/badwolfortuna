@@ -19,7 +19,7 @@ Mainframe'den mikroservis mimarisine geçişlerde modül düzeyinde teknik lider
 
 ### 📌 Deneyim
 
-- 💳 **Kıdemli Java Yazılım Geliştirici · Garanti BBVA Teknoloji / OBSS** (2023 – 2026): Core Banking, kredi kartı ürünleri
+- 💳 **Kıdemli Java Yazılım Geliştirici · Garanti BBVA Teknoloji / OBSS** (2023 – 2026): Core Banking, kredi kartı ve ürünleri
 - 🛒 **Full Stack / Backend Geliştirici · ETSTUR** (2021 – 2023): Muhasebe ve ödeme sistemleri, B2C hotel rent a car transfer platformları, REST / SOAP entegrasyonları
 - 🎓 **Bilgisayar Mühendisliği Lisansı** · Akdeniz Üniversitesi (İngilizce eğitim programı), 2015 – 2020
 
